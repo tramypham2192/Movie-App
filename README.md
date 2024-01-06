@@ -2,26 +2,27 @@
 
 ### Javascript functions used
 
-DOM tree
-query selector
-add event listener
-textContent
-event.preventDefault();
+- DOM tree
+- query selector
+- add event listener
+- textContent
+- event.preventDefault();
 
-createElement()
-appendChild()
+- createElement()
+- appendChild()
 
-event.target.parentNode.textContent
-event.target.parentNode.remove();
-event.target.classList.toggle('checked')
-event.target.classList.contains('checked')
+- event.target.parentNode.textContent
+- event.target.parentNode.remove();
+- event.target.classList.toggle('checked')
+- event.target.classList.contains('checked')
 
-message.className = 'hide'
-message.className.remove('hide')
+- message.className = 'hide'
+- message.className.remove('hide')
 
 
 ### Functions of the app:
-Add//Delete movie titles into the Movie list 
-Mark Movie title as watched
-Toggle Movie title as not watched if marked movie title as watched by mistake
-Display message sayings movie title is deleted or marked as watched. Message disaapear after 1 second
+- Add movie titles to the Movie list
+- Delete movie titles from the Movie list
+- Mark the Movie title as watched
+- Toggle Movie title as not watched if marked movie title as watched by mistake
+- Display a message saying the movie title is deleted or marked as watched. The message disappears after 1 second
